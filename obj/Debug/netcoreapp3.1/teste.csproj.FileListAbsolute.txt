@@ -1,0 +1,11 @@
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\Aluno.NAVERECIFE\Desktop\teste\obj\Debug\netcoreapp3.1\teste.pdb
